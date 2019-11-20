@@ -1,0 +1,308 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572407301 source:c:\users\gonzalez\desktop\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1533133022 c:\users\gonzalez\desktop\tp3\win_32\linkedlist.h
+
+1572408329 c:\users\gonzalez\desktop\tp3\win_32\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1572406581 source:c:\users\gonzalez\desktop\tp3\win_32\main.c
+	"Controller.h"
+
+1572405756 c:\users\gonzalez\desktop\tp3\win_32\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572407235 source:c:\users\gonzalez\desktop\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572408329 source:c:\users\gonzalez\desktop\tp3\win_32\employee.c
+	"Employee.h"
+
+1533133022 c:\users\gonzalez\desktop\tp3\win_32\parser.h
+
+1572410818 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\linkedlist.h
+
+1572551870 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1572553162 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\employee.c
+	"Employee.h"
+
+1572554134 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\inputs.c
+	"inputs.h"
+
+1572554134 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1572554189 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\main.c
+	"Controller.h"
+
+1572405756 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572554666 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"inputs.h"
+
+1533133022 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\win_32\parser.h
+
+1573178816 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1573176439 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\linkedlist.h
+
+1573176439 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1573176439 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1573176439 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\parser.h
+	"LinkedList.h"
+
+1573176439 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\employee.c
+	"Employee.h"
+
+1573178296 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\main.c
+	"Controller.h"
+
+1573178778 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573176439 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
+1573176439 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-iii\inputs.c
+	"inputs.h"
+
+1572704254 source:d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\employee.c
+	"Employee.h"
+
+1572699053 d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1572698419 d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1572698373 source:d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\inputs.c
+	"inputs.h"
+
+1572699096 source:d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572696620 d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\linkedlist.h
+
+1572705327 source:d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"inputs.h"
+
+1572704397 d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572696621 d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\parser.h
+
+1572705654 source:d:\gonzalez teti\tp_laboratorio_1\trabajo-practico-iii\main.c
+	"Controller.h"
+
+1572867699 source:d:\tp_laboratorio_1\trabajo-practico-iii\employee.c
+	"Employee.h"
+
+1572867699 d:\tp_laboratorio_1\trabajo-practico-iii\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1572868357 d:\tp_laboratorio_1\trabajo-practico-iii\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1572875147 source:d:\tp_laboratorio_1\trabajo-practico-iii\inputs.c
+	"inputs.h"
+
+1572875530 source:d:\tp_laboratorio_1\trabajo-practico-iii\main.c
+	"Controller.h"
+
+1572869791 d:\tp_laboratorio_1\trabajo-practico-iii\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572867699 d:\tp_laboratorio_1\trabajo-practico-iii\linkedlist.h
+
+1572873214 source:d:\tp_laboratorio_1\trabajo-practico-iii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
+1572867699 d:\tp_laboratorio_1\trabajo-practico-iii\parser.h
+	"LinkedList.h"
+
+1572875080 source:d:\tp_laboratorio_1\trabajo-practico-iii\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1573155172 source:e:\tp_laboratorio_1\trabajo-practico-iii\employee.c
+	"Employee.h"
+
+1573155172 e:\tp_laboratorio_1\trabajo-practico-iii\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1573155172 e:\tp_laboratorio_1\trabajo-practico-iii\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1573155172 source:e:\tp_laboratorio_1\trabajo-practico-iii\inputs.c
+	"inputs.h"
+
+1573155172 source:e:\tp_laboratorio_1\trabajo-practico-iii\main.c
+	"Controller.h"
+
+1573155172 e:\tp_laboratorio_1\trabajo-practico-iii\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573155172 e:\tp_laboratorio_1\trabajo-practico-iii\linkedlist.h
+
+1573155174 source:e:\tp_laboratorio_1\trabajo-practico-iii\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
+1573155174 e:\tp_laboratorio_1\trabajo-practico-iii\parser.h
+	"LinkedList.h"
+

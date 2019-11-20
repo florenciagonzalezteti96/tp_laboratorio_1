@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1553947710 source:d:\florencia\primercuatrimestre\ejercicios y practica\clase4\trabajopracticouno\operaciones.c
+	"Operaciones.h"
+
+1553947710 source:d:\florencia\primercuatrimestre\ejercicios y practica\clase4\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553947710 d:\florencia\primercuatrimestre\ejercicios y practica\clase4\trabajopracticouno\operaciones.h
+
+1554242589 source:c:\users\gonzalez\desktop\programacionuno\ejercicios y practica\clase4\trabajopracticouno\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554242599 c:\users\gonzalez\desktop\programacionuno\ejercicios y practica\clase4\trabajopracticouno\operaciones.h
+
+1554242589 source:c:\users\gonzalez\desktop\programacionuno\ejercicios y practica\clase4\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554232386 source:c:\users\gonzalez\desktop\programacionuno\ejercicios y practica\clase4\trabajopracticouno\ingresoyvalidaciones.c
+
+1554325537 source:c:\users\gonzalez\desktop\programacioni\ejercicios y practica\clase4\trabajopracticouno\ingresoyvalidaciones.c
+
+1554424740 source:c:\users\gonzalez\desktop\programacioni\ejercicios y practica\clase4\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554331374 c:\users\gonzalez\desktop\programacioni\ejercicios y practica\clase4\trabajopracticouno\operaciones.h
+
+1554329051 source:c:\users\gonzalez\desktop\programacioni\ejercicios y practica\clase4\trabajopracticouno\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554425344 source:c:\users\gonzalez\desktop\tp1\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1554331374 c:\users\gonzalez\desktop\tp1\trabajopracticouno\operaciones.h
+
+1554329051 source:c:\users\gonzalez\desktop\tp1\trabajopracticouno\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1567110905 source:c:\users\gonzalez\desktop\programacion\tp1\trabajopracticouno\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1567111296 c:\users\gonzalez\desktop\programacion\tp1\trabajopracticouno\operaciones.h
+
+1567115066 source:c:\users\gonzalez\desktop\programacion\tp1\trabajopracticouno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1567111296 c:\users\gonzalez\desktop\programacion\tp1\trabajopracticouno\operation.h
+
+1567112489 source:c:\users\gonzalez\desktop\programacion\tp1\trabajopracticouno\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1567511022 source:d:\gonzalez teti\programacion-laboratorio-i\trabajo-practico-i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1567511022 d:\gonzalez teti\programacion-laboratorio-i\trabajo-practico-i\operation.h
+
+1567511022 source:d:\gonzalez teti\programacion-laboratorio-i\trabajo-practico-i\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1567720324 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	"Operaciones.h"
+
+1567530856 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\operation.h
+
+1567530856 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\operation.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1567721428 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\funciones.h
+
+1567720772 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	"Operaciones.h"
+
+1567720324 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\operaciones.c
+	"Operaciones.h"
+	"Funciones.h"
+	<stdio.h>
+	<stdlib.h>
+
+1567720324 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-i\operaciones.h
+

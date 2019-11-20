@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1569089661 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1569089937 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1569088659 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\arrayemployees.c
+	"ArrayEmployees.h"
+
+1569087897 source:c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\menus.c
+	"ArrayEmployees.h"
+	"Menus.h"
+
+1569087938 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\menus.h
+	<stdio.h>
+	<stdlib.h>
+
+1569088848 c:\users\gonzalez\desktop\programacion-laboratorio-i\trabajo-practico-ii\function.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1569191773 source:c:\users\gonzalez\desktop\tp2\tp_laboratorio_1\trabajo-practico-ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	"ArrayEmployees.h"
+
+1569191582 c:\users\gonzalez\desktop\tp2\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1569192284 source:c:\users\gonzalez\desktop\tp2\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.c
+	"ArrayEmployees.h"
+
+1569239387 source:d:\florencia\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.c
+	"ArrayEmployees.h"
+
+1569243249 d:\florencia\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1569239387 source:d:\florencia\tp_laboratorio_1\trabajo-practico-ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	"ArrayEmployees.h"
+
+1572408665 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	"ArrayEmployees.h"
+
+1572408665 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	"inputs.h"
+
+1572408665 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-ii\arrayemployees.c
+	"ArrayEmployees.h"
+
+1572408665 c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-ii\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1572408665 source:c:\users\gonzalez\desktop\tp_laboratorio_1\trabajo-practico-ii\inputs.c
+	"inputs.h"
+
