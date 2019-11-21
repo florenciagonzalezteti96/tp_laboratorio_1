@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1574177075 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1574168307 d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574166297 d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\linkedlist.h
+
+1574165677 d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1574165677 d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1574165677 d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\parser.h
+	"LinkedList.h"
+
+1574165677 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\employee.c
+	"Employee.h"
+
+1574165677 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\inputs.c
+	"inputs.h"
+
+1574177015 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1574165677 d:\tp_laboratorio_1\trabajo-practico-4\inc\linkedlist.h
+
+1574172135 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\main.c
+	"Controller.h"
+
+1574170852 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
+1574166272 source:d:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\filter.c
+
+1574263598 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1574261556 e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574166298 e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\linkedlist.h
+
+1574165678 e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1574165678 e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1574165678 e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\parser.h
+	"LinkedList.h"
+
+1574165678 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\employee.c
+	"Employee.h"
+
+1574166274 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\filter.c
+
+1574165678 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\inputs.c
+	"inputs.h"
+
+1574177016 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1574165678 e:\tp_laboratorio_1\trabajo-practico-4\inc\linkedlist.h
+
+1574263354 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
+1574263712 source:e:\tp_laboratorio_1\trabajo-practico-4\segunda parte (funciones linkedlist aplicadas)\main.c
+	"Controller.h"
+
