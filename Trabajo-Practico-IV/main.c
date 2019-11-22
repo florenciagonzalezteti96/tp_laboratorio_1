@@ -4,32 +4,14 @@
     Menu:
      1. Cargar los datos de los empleados desde el archivo data.csv (modo texto).
      2. Cargar los datos de los empleados desde el archivo data.csv (modo binario).
-     3. Alta de empleado
-     4. Modificar datos de empleado
-     5. Baja de empleado
-     6. Listar empleados
-     7. Ordenar empleados
+     3. Alta de empleado.
+     4. Modificar datos de empleado.
+     5. Baja de empleado.
+     6. Listar empleados.
+     7. Ordenar empleados.
      8. Guardar los datos de los empleados en el archivo data.csv (modo texto).
      9. Guardar los datos de los empleados en el archivo data.csv (modo binario).
      10. Salir.
-
-     int ll_clear(LinkedList* this);
-     int ll_deleteLinkedList(LinkedList* this);
-     int ll_indexOf(LinkedList* this, void* pElement);//para que me informe de la posicion de un empleado en una lista
-     int ll_push(LinkedList* this, int index, void* pElement);
-     void* ll_pop(LinkedList* this,int index);//para llenar una lista de empleados dados de baja
-     int ll_contains(LinkedList* this, void* pElement);//informo que empleados trabajan en las dos empresas
-     int ll_containsAll(LinkedList* this,LinkedList* this2);//comparo la lista de empleados de la segunda empresa con la primera para saber si todos los empleados de esa empresa trabajan ahi.
-     LinkedList* ll_subList(LinkedList* this,int from,int to);//lista de empleados con mayor sueldo o los primeros 50 empleados
-     LinkedList* ll_clone(LinkedList* this); //puedo crear una lista al principio, clono esa lista, y la utilizo para el ordenar y el mostrar, para que no se pierda la referencia en las otras opciones
-     int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order);
-
-     *** MAP me devuelve una lista con un dato incompleto y ahora esta completo:
-
-     por ejemplo:
-
-     una funcion que recibe la lista y me devuelve otra con los cambios hechos. despues puedo asignar esa nueva lista a la principal o no.
-
 
 *****************************************************/
 
@@ -227,7 +209,7 @@ int main()
                 printf("Error: no se ha podido acceder al guardado en texto.\n");
                 break;
             case 0:
-                printf("Los archivos se han guardado exitosamente en modo binario.\n");
+                printf("Los archivos se han guardado exitosamente en modo texto.\n");
                 controller_saveAsText("Bajas.csv", listaBajasEmpleados);
                 break;
             }
@@ -251,6 +233,7 @@ int main()
             system("pause");
             break;
         case 10:
+            /**SALIR*/
             option_continue = getConfirmacion("Esta seguro que desea salir? Ingrese s para SI o n para NO: ");
             ll_deleteLinkedList(listaEmpleados);
             ll_deleteLinkedList(listaBajasEmpleados);
@@ -267,7 +250,5 @@ int main()
     while(option_continue=='n');
     printf("\n");
 
-
     return 0;
 }
-

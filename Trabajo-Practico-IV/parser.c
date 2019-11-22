@@ -13,7 +13,6 @@
 int parser_EmployeeFromText(FILE* pFile, LinkedList* pArrayListEmployee)
 {
     int retorno = -1;
-    int contador = 0;
     Employee* this = NULL;
 
     //creo los campos para que vaya guardando lo que lee del archivo

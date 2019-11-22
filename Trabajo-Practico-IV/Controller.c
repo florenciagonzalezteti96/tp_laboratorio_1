@@ -309,12 +309,10 @@ int mostrarMenuListar(LinkedList* pArrayListEmployee, LinkedList* pArrayListRemo
         {
         case 1:
             retorno = controller_ListEmployee(pArrayListEmployee);
-            printf("retorno : %d\n", retorno);
             printf("\n");
             break;
         case 2:
             retorno = controller_ListEmployee(pArrayListRemovedEmployee);
-            printf("retorno : %d\n", retorno);
             printf("\n");
             break;
         }
@@ -343,7 +341,7 @@ int controller_ListEmployee(LinkedList* pArrayListEmployee)
         {
             len = ll_len(pArrayListEmployee);
             Employee* auxEmpleado;
-            printf("%4s%22s%32s%32s\n","Id:","Nombre:","Horas Trabajadas:","Sueldo:");
+            printf("%4s%20s%20s%22s\n","Id:","Nombre:","Horas Trabajadas:","Sueldo:");
             for(i=0; i<len; i++)
             {
                 auxEmpleado = (Employee*) ll_get(pArrayListEmployee, i);

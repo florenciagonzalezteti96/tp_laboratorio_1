@@ -1,59 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../inc/LinkedList.h"
-/**
-Estructura de linked list:
-size -> tamaño (cant de elementos guardados en la linked list)
-pNode -> nodo es otra estructura
-
-Estructura de NODE:
-pElement -> EL elemento que guardo en la lista
-pNextNode -> El puntero al siguiente nodo -> permite que la linked list sea una lista enlazada
-para agregar un elemento a la linked list, creo un nuevo nodo, le asigno un elemento y guardo la direcc del siguiente nodo
-
-Si quiero saber si ese nodo es el primero (unico) o el ultimo, tengo que guardar el nodo y preguntar por la direccion de memoria del nodo siguiente
-para saber si apunta a NULL (es el ultimo) o no
-
-el set
--> crea un nuevo nodo, que apunta el nuevo dato (EL que se quiere ingresar) y engancho ese nodo en la lista al nodo anterior y al siguiente
--> si es el ultimo elemento y quiero hacer un ser en la posicion dos, realizo un add -> si es igual al size, hago un add
-
-el push
--> tengo que obtener el nodo que voy a correr para no perder la referencia
-
-el remove
--> busco el indice en particular, recorro la lista y pongo a ese nodo realizo el free y engancho los demas nodos apropiadamente
-
-
-clear
-->desengancha el primer nodo del siguiente y setea el size en cero. tengo que hacer un free de los demas nodos
-
-delete
--> llama al clear y hace un free del primer nodo
-
-indexOF
--> hago un get y voy comparando direcciones de memoria y cuando encuentro un match, hago un break y me quedo con ese indice
-
-contains
--> llamo al index of -> si esta devuelve uno si no, no exite
-
-containsall
-->tengo que preguntar por direcciones de memoria no por los valores. si la lista a tiene un 4 apuntando a X y la lista b tiene un 4 apuntando a Y, SON DIFERENTES. es decir, no cuenta
-
-sublist
-->el desde es inclusivo y el hasta el exclusivo
-
-clone
--> tengo que crear espacio para la nueva lista, y tengo que hacer un get para cada dato de la lista a clonar
-
-creo nuevo archivo de texto para ver si algunos datos estan contenidos en el otro. Si lo estan a esos mismos datos, les hago un match
-con la lista principal, y una vez que encontre un match, a ese dato le doy la misma direccion de memoria que el dato de la lista
-principal. Esto es para que cuando hago el containsAll no me tire cualquier cosa, porque este compara que la direccion
-de memoria de los archivos sea igual.
-
-
-*/
+#include "LinkedList.h"
 
 static Node* getNode(LinkedList* this, int nodeIndex);
 static int addNode(LinkedList* this, int nodeIndex,void* pElement);

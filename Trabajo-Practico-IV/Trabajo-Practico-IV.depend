@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1574433487 source:c:\users\florencia\desktop\trabajo-practico-iv\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1574261556 c:\users\florencia\desktop\trabajo-practico-iv\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574166298 c:\users\florencia\desktop\trabajo-practico-iv\linkedlist.h
+
+1574165678 c:\users\florencia\desktop\trabajo-practico-iv\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"inputs.h"
+
+1574165678 c:\users\florencia\desktop\trabajo-practico-iv\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1574165678 c:\users\florencia\desktop\trabajo-practico-iv\parser.h
+	"LinkedList.h"
+
+1574165678 source:c:\users\florencia\desktop\trabajo-practico-iv\employee.c
+	"Employee.h"
+
+1574165678 source:c:\users\florencia\desktop\trabajo-practico-iv\inputs.c
+	"inputs.h"
+
+1574433322 source:c:\users\florencia\desktop\trabajo-practico-iv\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574433405 source:c:\users\florencia\desktop\trabajo-practico-iv\main.c
+	"Controller.h"
+
+1574433334 source:c:\users\florencia\desktop\trabajo-practico-iv\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Employee.h"
+
