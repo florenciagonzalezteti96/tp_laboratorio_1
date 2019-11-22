@@ -41,6 +41,13 @@ int controller_editEmployee(LinkedList* pArrayListEmployee);
  *
  */
 int controller_removeEmployee(LinkedList* pArrayListEmployee, LinkedList* pArrayListRemovedEmployees);
+/** \brief Esta funcion despliega un menu para mostrar listas
+ *
+ * \param pArrayListEmployee LinkedList* Una de las listas dinamicas a mostrar
+ * \param pArrayListRemovedEmployee LinkedList* Una de las listas dinamicas a mostrar
+ * \return int Devuelve -1 si las listas son NULL, 0 si logro listar la lista elegida, 1 si la lista elegida para listar esta vacia
+ *
+ */
 int mostrarMenuListar(LinkedList* pArrayListEmployee, LinkedList* pArrayListRemovedEmployee);
 /** \brief Esta funcion lista los empleados cargados en una lista dinamica
  *
@@ -94,8 +101,36 @@ int dameProximoId(LinkedList* pArrayListEmployee);
  * \return void* Devuelve el empleado si lo encontro, caso contrario devuelve NULL
  *
  */
+/** \brief Esta funcion permite obtener un empleado por su ID
+ *
+ * \param pArrayListEmployee LinkedList* la lista dinamica
+ * \param id int el id del empleado a encontrar
+ * \return void* Devuelve el empleado si lo encontro, caso contrario devuelve NULL
+ *
+ */
 void* getEmployeeById(LinkedList* pArrayListEmployee, int id);
+/** \brief Esta funcion permite obtener un empleado por su cantidad de horas trabajadas
+ *
+ * \param pArrayListEmployee LinkedList* la lista dinamica
+ * \param hoursWorked int el id del empleado a encontrar
+ * \return void* Devuelve el empleado si lo encontro, caso contrario devuelve NULL
+ *
+ */
 void* getEmployeeByHoursWorked(LinkedList* pArrayListEmployee, int hoursWorked);
+/** \brief Esta funcion permite obtener un empleado por su salario
+ *
+ * \param pArrayListEmployee LinkedList* la lista dinamica
+ * \param salary int el id del empleado a encontrar
+ * \return void* Devuelve el empleado si lo encontro, caso contrario devuelve NULL
+ *
+ */
 void* getEmployeeBySalary(LinkedList* pArrayListEmployee, int salary);
+/** \brief Esta funcion permite obtener un empleado por su nombre
+ *
+ * \param pArrayListEmployee LinkedList* la lista dinamica
+ * \param name char* el id del empleado a encontrar
+ * \return void* Devuelve el empleado si lo encontro, caso contrario devuelve NULL
+ *
+ */
 void* getEmployeeByNombre(LinkedList* pArrayListEmployee, char* name);
 
